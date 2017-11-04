@@ -1,0 +1,37 @@
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe.config
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\bin\Debug\Mole shoter.pdb
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csprojResolveAssemblyReference.cache
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Form1.resources
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Properties.Resources.resources
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csproj.GenerateResource.Cache
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\obj\Debug\Mole shoter.exe
+C:\Users\Nash\Desktop\Mole shoter\Mole shoter\obj\Debug\Mole shoter.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe.config
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.exe
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csprojResolveAssemblyReference.cache
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Form1.resources
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Properties.Resources.resources
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csproj.GenerateResource.Cache
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe.config
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.exe
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.pdb
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.pdb
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csprojResolveAssemblyReference.cache
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Form1.resources
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Properties.Resources.resources
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csproj.GenerateResource.Cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe.config
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\bin\Debug\Mole shoter.pdb
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csprojResolveAssemblyReference.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Form1.resources
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole_shoter.Properties.Resources.resources
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csproj.GenerateResource.Cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.csproj.CoreCompileInputs.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Mole shoter\Mole shoter\obj\Debug\Mole shoter.pdb
